@@ -42,6 +42,8 @@
         pip install -r requirements.txt         # install project dependencies
         python app.py                           # run the project
         deactivate                              # close virtual environment once done
+### Note
+The model file (c1_flight_rf.pkl) has been compressed for upload due to GitHub’s 25 MB file size limit.
         
 ### Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/skillcate/flight-price-prediction/issues) by including your search query and the expected result.
